@@ -5,7 +5,7 @@
 
 My name is Dan Novac and I'm a Software Developer. Professional experience with the **Technologies & Tools** listed below.
 
-⚡ Learner, wanderer, foodie, geeky. I like to travel and to collect things.
+⚡ Learner, wanderer, foodie. I like to travel and collect things.
 
 I write on my [Blog](https://daninovac.com) and you can find me tweeting  ![Twitter Follow](https://img.shields.io/twitter/follow/daninovac)
 
