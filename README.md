@@ -1,13 +1,14 @@
-<!--
-**dnovac/dnovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**dnovac/dnovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Dan Novac and I'm a Software Developer. Professional experience with the **Technologies & Tools** listed below.
 
+🤓 Passionate about: Clean Code, Microservices, Software Architecture 
 ⚡ Learner, wanderer, foodie. I like to travel and collect things.
 
-I write on my [Blog](https://daninovac.com) and you can find me tweeting [![Twitter Follow](https://img.shields.io/twitter/follow/daninovac?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=daninovac)
+I write in Romanian on my [Blog](https://daninovac.com)
+Follow me tweeting [![Twitter Follow](https://img.shields.io/twitter/follow/daninovac?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=daninovac)
 
 You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
 
@@ -38,8 +39,6 @@ You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
 
 
  
-
-
 
 <!--Here are some ideas to get you started:
 
