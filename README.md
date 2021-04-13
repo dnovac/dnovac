@@ -4,10 +4,12 @@
 
 My name is Dan Novac and I'm a Software Developer. Professional experience with the **Technologies & Tools** listed below.
 
-🤓 Passionate about: Clean Code, Microservices, Software Architecture 
+🤓 Passionate about: Clean Code, Microservices, Software Architecture, Performance.
+
 ⚡ Learner, wanderer, foodie. I like to travel and collect things.
 
-I write in Romanian on my [Blog](https://daninovac.com)
+📓 I write in Romanian on my [Blog](https://daninovac.com)
+
 Follow me tweeting [![Twitter Follow](https://img.shields.io/twitter/follow/daninovac?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=daninovac)
 
 You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
