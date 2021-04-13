@@ -2,7 +2,7 @@
 
 ### Hello y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dan Novac and I'm a Software Developer. Professional experience with the **Technologies & Tools** listed below.
+My name is Dan Novac and I'm a _Software Developer_. Professional experience with the **Technologies & Tools** listed below.
 
 🤓 Passionate about: Clean Code, Microservices, Software Architecture, Performance.
 
