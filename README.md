@@ -33,7 +33,7 @@ You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
 
  ## &#x1f4c8; GitHub Stats
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=batch-jobs&show_icons=true&theme=highcontrast)](https://github.com/dnovac/batch-jobs) <br>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=batch-jobs&show_icons=true&theme=dracula)](https://github.com/dnovac/batch-jobs) <br>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=simple-tasks&show_icons=true&theme=dracula)](https://github.com/dnovac/simple-tasks) <br>
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovac&show_icons=true&theme=dracula)](https://github.com/anuraghazra/dnovac) <br>
  <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovac&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
