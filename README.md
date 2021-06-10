@@ -17,9 +17,9 @@ You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396) <br>
+![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=javascript&logoColor=white&color=339933)<br>
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8) <br>
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=F7DF1E) <br>
-![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=339933)<br>
 ![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&color=6DB33F) <br>
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791) <br>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED) <br>
