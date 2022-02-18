@@ -12,7 +12,7 @@ My name is Dan Novac and I'm a _Software Developer_. Professional experience wit
 
 Follow me tweeting [![Twitter Follow](https://img.shields.io/twitter/follow/daninovac?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=daninovac)
 
-You can checkout my [Portfolio](https://dan-novac.netlify.app/) for more info.
+You can checkout my [Portfolio](http://dan-novac.com) for more info.
 
 
 ## 🔧 Technologies & Tools
