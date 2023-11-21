@@ -8,7 +8,7 @@ My name is Dan Novac and I'm a _Software Developer_. Professional experience wit
 
 ⚡ Learner, wanderer, foodie. I like to travel and collect things.
 
-You can checkout my [Portfolio](https://dan-novac.com) for more info.
+You can checkout my [Portfolio](https://www.dan-novac.com) for more info.
 
 
 ## 🔧 Technologies & Tools
