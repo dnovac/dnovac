@@ -9,7 +9,7 @@ My name is Dan Novac and I'm a _Software Developer_. Professional experience wit
 ⚡ Learner, wanderer, foodie. I like to travel and collect things.
 
 You can checkout my [Portfolio](https://portfolio-v2-jsai.vercel.app/) for more info.
-You can checkout my [Website](https://www.dan-novac.com) for more info.
+Or you can checkout my [Website](https://www.dan-novac.com).
 
 
 ## 🔧 Technologies & Tools
