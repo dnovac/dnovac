@@ -2,10 +2,9 @@
 
 ### Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dan Novac and I'm a _Sr. Software Engineer_. Focused on _Distributed services, Software Architecture, Performance_.
+<sub><sup>_Sr. Software Engineer. Level 10+ years-of-xp_.</br> Focused on _Distributed services, Software Architecture, Performance_.</sup></sub></br>
+<sub><sup>You can checkout my _[portfolio](https://portfolio-v2-jsai.vercel.app/)_ for more professional info or you can sneak on my _probably-not-up-to-date [website](https://www.dan-novac.com)._<sub><sup>
 
-You can checkout my [Portfolio](https://portfolio-v2-jsai.vercel.app/) for more info.
-Or you can checkout my [Website](https://www.dan-novac.com).
 
 ![](https://img.shields.io/badge/node.js-informational?style=flat&logo=javascript&logoColor=green&color=03045E)
 ![](https://img.shields.io/badge/typescript-informational?style=flat&logo=typescript&logoColor=blue&color=023E8A)
