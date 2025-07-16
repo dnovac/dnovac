@@ -1,43 +1,25 @@
 <!--**dnovac/dnovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hello y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dan Novac and I'm a _Software Developer_. Professional experience with the **Technologies & Tools** listed below.
-
-🤓 Passionate about: Clean Code, Microservices, Software Architecture, Performance.
-
-⚡ Learner, wanderer, foodie. I like to travel and collect things.
+My name is Dan Novac and I'm a _Sr. Software Engineer_. Focused on _Distributed services, Software Architecture, Performance_.
 
 You can checkout my [Portfolio](https://portfolio-v2-jsai.vercel.app/) for more info.
 Or you can checkout my [Website](https://www.dan-novac.com).
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396) <br>
-![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=javascript&logoColor=white&color=339933)<br>
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8) <br>
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=F7DF1E) <br>
-![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&color=6DB33F) <br>
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791) <br>
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED) <br>
-![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D) <br>
-![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=85EA2D) <br>
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=232F3E) <br>
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5) <br>
-![](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat&logo=buffer&logoColor=white&color=231F20) <br>
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000) <br>
+![](https://img.shields.io/badge/node.js-informational?style=flat&logo=javascript&logoColor=green&color=03045E)
+![](https://img.shields.io/badge/typescript-informational?style=flat&logo=typescript&logoColor=blue&color=023E8A)
+![](https://img.shields.io/badge/aws-informational?style=flat&logo=amp&logoColor=yellow&color=0096C7)
+![](https://img.shields.io/badge/docker-informational?style=flat&logo=docker&logoColor=blue&color=00B4D8)
+![](https://img.shields.io/badge/java-informational?style=flat&logo=coffeescript&logoColor=gray&color=CAF0F8)
 
 
- ## &#x1f4c8; GitHub Stats
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=batch-jobs&show_icons=true&theme=highcontrast)](https://github.com/dnovac/batch-jobs) <br>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=simple-tasks&show_icons=true&theme=highcontrast)](https://github.com/dnovac/simple-tasks) <br>
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovac&show_icons=true&theme=highcontrast)](https://github.com/dnovac) <br>
+ <!-- ## &#x1f4c8; GitHub Stats -->
+ <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=batch-jobs&show_icons=true&theme=highcontrast)](https://github.com/dnovac/batch-jobs) <br> -->
+ <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnovac&repo=simple-tasks&show_icons=true&theme=highcontrast)](https://github.com/dnovac/simple-tasks) <br> -->
+ <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovac&show_icons=true&theme=highcontrast)](https://github.com/dnovac) <br> -->
  <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovac&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
-
- 
 
 <!--Here are some ideas to get you started:
 
