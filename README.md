@@ -2,8 +2,8 @@
 
 ### Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<sub><sup>_Sr. Software Engineer. Level 10+ years-of-xp_.</br> Focused on _Distributed services, Software Architecture, Performance_.</sup></sub></br>
-<sub><sup>You can checkout my _[portfolio](https://portfolio-v2-jsai.vercel.app/)_ for more professional info or you can sneak on my _probably-not-up-to-date [website](https://www.dan-novac.com)._<sub><sup>
+_Sr. Software Engineer. Level 10+ years-of-xp_.</br> Focused on _Distributed services, Software Architecture, Performance;_
+You can checkout my _[portfolio](https://portfolio-v2-jsai.vercel.app/)_ for more professional info or you can sneak on my _probably-not-up-to-date [website](https://www.dan-novac.com)._
 
 
 ![](https://img.shields.io/badge/node.js-informational?style=flat&logo=javascript&logoColor=green&color=03045E)
