@@ -2,7 +2,9 @@
 
 ### Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-_Sr. Software Engineer. Level 10+ years-of-xp_.</br> Focused on _Distributed services, Software Architecture, Performance;_
+_Sr. Software Engineer. Level 10+ years-of-xp_.</br></br>
+
+Focused on _Distributed services, Software Architecture, Performance;_</br>
 You can checkout my _[portfolio](https://portfolio-v2-jsai.vercel.app/)_ for more professional info or you can sneak on my _probably-not-up-to-date [website](https://www.dan-novac.com)._
 
 
